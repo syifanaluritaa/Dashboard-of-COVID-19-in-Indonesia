@@ -3,7 +3,7 @@ Berkas ini berisi dokumentasi Dashboard Analisis COVID-19 Indonesia berbasis Exc
 
 ---
 
-## 📝 Deskripsi Proyek (Project Description)
+## 📝 Deskripsi Proyek
 
 Proyek ini bertujuan untuk mengolah, meringkas, dan memvisualisasikan data deret waktu (*time-series*) penyebaran virus COVID-19 di Indonesia dari periode awal pandemi hingga fase pemulihan. Dengan memanfaatkan dataset publik tingkat nasional dan provinsi, analisis ini difokuskan pada identifikasi lonjakan gelombang penularan, perbandingan rasio kesembuhan terhadap fatalitas (*Case Fatality Rate - CFR*), serta pemetaan wilayah episentrum penyebaran tertinggi di tingkat provinsi.
 
@@ -15,7 +15,7 @@ Keseluruhan visualisasi pada kedua platform dirancang secara konsisten menggunak
 
 ---
 
-## 🔗 Tautan Publik (Live Dashboard Link)
+## 🔗 Tautan Publik 
 Untuk melihat dan berinteraksi langsung dengan grafik dinamis, filter wilayah, dan visualisasi penuh, silakan akses tautan Tableau Public berikut:
 👉 [https://public.tableau.com/app/profile/syifa.nalurita.azahra/viz/DashboardofCOVID-19_17798711955490/InteractiveDashboard?publish=yes] 
 
@@ -30,18 +30,18 @@ Proyek ini mengadopsi alur pemrosesan data terstruktur (data pipeline) di dalam 
 
 ---
 
-## 🖥️ Pratinjau Antarmuka (Dashboard Screenshots)
+## 🖥️ Pratinjau Antarmuka
 
 ### Tampilan Dashboard Microsoft Excel
 <p align="center">
-  <img src="Images/screenshot_excel.png" alt="Dashboard Excel Summary" width="100%" style="border-radius: 8px; border: 1px solid #334155;">
+  <img src="Images/Covid_Excel.png" alt="Dashboard Excel Summary" width="100%" style="border-radius: 8px; border: 1px solid #334155;">
   <br>
   <em>Gambar 1.1: Tampilan Utama Eksekutif Dashboard pada Lembar Kerja Microsoft Excel.</em>
 </p>
 
 ### Tampilan Dashboard Tableau
 <p align="center">
-  <img src="Images/screenshot_tableau.png" alt="Dashboard Tableau Interactive" width="100%" style="border-radius: 8px; border: 1px solid #334155;">
+  <img src="Images/Covid_Tableu.png" alt="Dashboard Tableau Interactive" width="100%" style="border-radius: 8px; border: 1px solid #334155;">
   <br>
   <em>Gambar 1.2: Visualisasi Interaktif dan Analisis Tren Berkala pada Platform Tableau.</em>
 </p>
